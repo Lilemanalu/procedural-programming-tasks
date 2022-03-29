@@ -1,0 +1,5 @@
+quiz#10#47
+assignment#20#63
+project#20#55
+mid exam#20#40
+final exam#30#44
